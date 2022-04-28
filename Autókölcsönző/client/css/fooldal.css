@@ -1,0 +1,46 @@
+
+   
+
+      body {
+       
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+
+      h1{
+          padding-top: 50px;
+          padding-bottom: 50px;
+          text-align: center;
+      }
+
+      .betu{
+        color: white;
+      }
+
+      #cim{
+        color: black;
+      }
+
+      #cimhatter{
+        background-color: white;
+      }
+
+      .hatterke{
+        position: relative;
+        background-color: lightgray;
+        background-image: url(../images/hatterke.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-attachment: fixed;
+        background-size: cover;
+        height: 100%;
+        padding-bottom: 5px;
+      }
+    
+
+      
